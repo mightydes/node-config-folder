@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "node-config-folder",
   "description": "Load all js or json files from a directory.",
   "keywords": [

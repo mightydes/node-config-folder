@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "node-config-folder",
+  "description": "Load all js or json files from a directory.",
+  "keywords": [
+    "config",
+    "dotpath",
+    "cache"
+  ],
+  "author": {
+    "name": "Lev Nazarenko",
+    "email": "lynazarenko@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:mightydes/node-config-folder.git"
+  },
+  "homepage": "https://github.com/mightydes/node-config-folder",
+  "bugs": {
+    "url": "https://github.com/mightydes/node-config-folder/issues"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "object-path": "^0.11"
+  },
+  "devDependencies": {}
+}
